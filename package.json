@@ -1,0 +1,8 @@
+{
+  "name": "cafeteros-finanzas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"dev": "netlify dev"},
+  "engines": {"node": ">=20"}
+}
